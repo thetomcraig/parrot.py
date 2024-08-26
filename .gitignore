@@ -17,3 +17,4 @@ lib/private/*
 data/code/*
 data/README.md
 .DS_Store
+.python-version
